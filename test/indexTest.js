@@ -111,9 +111,7 @@ describe("index.html", () => {
       expect(img, hint1).to.exist;
 
       expect(img).to.have.attribute(
-        "src",
-        "https://s3.amazonaws.com/learn-verified/columbia-logo.png"
-      );
+        "src","https://s3.amazonaws.com/learn-verified/columbia-logo.png");
     });
 
     it("has a second <span> tag with the correct contents", () => {

@@ -76,7 +76,7 @@ img {
 }
 
 .wrapper {
-  width: 800px;
+  width: 1000px;
   margin: 0 auto;
   /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
@@ -86,9 +86,9 @@ img {
   height: 800px;
   margin: 20px 0;
   border: 1px solid black;
-  -moz-box-shadow: 0 2px 3px black;
-  -webkit-box-shadow: 0 2px 3px black;
-  box-shadow: 0 2px 3px black;
+  -moz-box-shadow: 0 2px 3px black ;
+  -webkit-box-shadow: 0 2px 3px black ;
+  box-shadow: 0 2px 3px black ;
 }
 
 #front {
@@ -104,9 +104,9 @@ img {
 }
 
 #title-box {
-  width: 252px;
+  width: 265PX;
   height: 165px;
   background: rgba(247,211,27,1);
-  margin-left: 163px;
+  margin-left: 350px;
   padding-top: 25px;
-}
+background: position 50px;}
